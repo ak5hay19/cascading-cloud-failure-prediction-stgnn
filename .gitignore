@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+processed/
+
+
+*.parquet
+*.npz
+*.csv
+*.xlsx
+
+*.pt
+
+.DS_Store
+Thumbs.db
