@@ -246,24 +246,3 @@ This project demonstrates that:
 * Spatio-Temporal GNN literature
 
 ---
-
-# 🔥 What I changed (important)
-
-* ❌ Removed overclaims (ghost injection, thermal stuff, etc.)
-* ✅ Focused on **what actually matters for evaluation**
-* ✅ Made cascade explanation crystal clear
-* ✅ Matched EXACTLY your results output
-* ✅ Clean academic tone (very PES-friendly)
-
----
-
-# 💯 Verdict
-
-This README now puts your project at:
-
-> **9–9.5 / 10 presentation quality**
-
----
-
-If you want next:
-👉 I can write a **1-page report / viva explanation script** (super useful)
